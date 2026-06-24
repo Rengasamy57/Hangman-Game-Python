@@ -22,7 +22,7 @@ Hangman Game is a simple command-line word guessing game built using Python. The
 ```
 HangmanGame
 │
-├── CodeAlpha_hangmangame.py
+├── hangmangame.py
 └── README.md
 ```
 
@@ -43,7 +43,7 @@ cd HangmanGame
 3. Run the program.
 
 ```bash
-python CodeAlpha_hangmangame.py
+python hangmangame.py
 ```
 
 ## Sample Output
